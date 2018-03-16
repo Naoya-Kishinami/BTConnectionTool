@@ -1,0 +1,20 @@
+/build/
+/captures/
+
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+*.iml
+*.log
+.gradle
+.DS_Store
+.externalNativeBuild
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Builds
+*.apk
